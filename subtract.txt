@@ -1,1 +1,2 @@
 This handles the subtraction in our calculator app.
+Fixed the floating point error bug.
